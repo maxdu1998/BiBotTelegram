@@ -58,6 +58,11 @@ Project Organization
 
 
 # Visualizações
-NPS interno mensal médio por setor
-NPS interno mensal médio por contratação
-Distribuição do NPS interno
+NPS interno mensal médio por setor;
+
+NPS interno mensal médio por contratação;
+
+Distribuição do NPS interno;
+
+![image](https://user-images.githubusercontent.com/50428941/204662306-4101fc64-4cbf-49a5-8510-e93b2c371ebe.png)
+
